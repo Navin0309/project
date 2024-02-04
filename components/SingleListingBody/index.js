@@ -15,7 +15,7 @@ import { useRouter } from "next/router";
 import LeftArrow from "../../public/_svgs/LeftArrow";
 import Heart from "../../public/_svgs/Heart";
 import { Context } from "../../pages/_app";
-import useWishlist from "../../hooks/useWishlist";
+// import useWishlist from "../../hooks/useWishlist";
 
 const SingleListingBody = ({ listing }) => {
   const router = useRouter();

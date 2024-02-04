@@ -5,17 +5,10 @@ import { Header } from "../../components";
 import { getParams } from "../../utils/handlers";
 import dynamic from "next/dynamic";
 import axios from "axios";
-import LOADING from "../../public/images/giphy.gif";
 import Wishlist from "../../components/Wishlist";
 import { Context } from "../_app";
 
 
-// const GoogleMapComponent = dynamic(
-//   () => import("../../components/MapFilter/GoogleMap"),
-//   {
-//     ssr: false,
-//   }
-// );
 
 const SearchPage = () => {
   const { destination } = useRouter().query;
