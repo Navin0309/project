@@ -44,16 +44,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 26.452541597780193, "lng": 83.24268193669977 },
-    "amenities": [
-      "BBQ grill ",
-      "Iron ",
-      "Crib ",
-      "Waterfront ",
-      "Indoor fireplace ",
-      "Free parking ",
-      "Air conditioning "
-    ],
+
     "bedrooms": 2,
     "bed": 2,
     "person_capacity": 2,
@@ -154,16 +145,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 26.599988452035497, "lng": 81.5676379382733 },
-    "amenities": [
-      "Washer ",
-      "Waterfront ",
-      "Crib ",
-      "Indoor fireplace ",
-      "Pool ",
-      "Breakfast ",
-      "Air conditioning "
-    ],
+
     "bedrooms": 2,
     "bed": 1,
     "person_capacity": 2,
@@ -487,19 +469,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 26.08803267931835, "lng": 84.41795870936622 },
-    "amenities": [
-      "EV charger ",
-      "Smoke alarm ",
-      "Air conditioning ",
-      "Kitchen ",
-      "Dryer ",
-      "Heating ",
-      "Indoor fireplace ",
-      "Smoking allowed ",
-      "Hot tub ",
-      "Carbon monoxide alarm "
-    ],
     "bedrooms": 2,
     "bed": 1,
     "person_capacity": 3,
@@ -569,19 +538,6 @@
           "createdAt": "June 2022  "
         }
       }
-    ],
-    "geolocation": { "lat": 26.437786503347798, "lng": 83.12185909091163 },
-    "amenities": [
-      "Dryer ",
-      "Smoke alarm ",
-      "Iron ",
-      "Gym ",
-      "TV ",
-      "Air conditioning ",
-      "Free parking ",
-      "Dedicated workspace ",
-      "Crib ",
-      "Smoking allowed "
     ],
     "bedrooms": 2,
     "bed": 1,
@@ -754,17 +710,7 @@
       }
     ],
     "geolocation": { "lat": 27.91393515286474, "lng": 84.75295162982314 },
-    "amenities": [
-      "Indoor fireplace ",
-      "Kitchen ",
-      "Heating ",
-      "Pool ",
-      "Air conditioning ",
-      "Breakfast ",
-      "Smoke alarm ",
-      "Smoking allowed ",
-      "EV charger "
-    ],
+ 
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -1005,15 +951,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.87403362055262, "lng": 84.71931345116624 },
-    "amenities": [
-      "Air conditioning ",
-      "Waterfront ",
-      "Kitchen ",
-      "EV charger ",
-      "Iron ",
-      "Hair dryer "
-    ],
     "bedrooms": 4,
     "bed": 2,
     "person_capacity": 6,
@@ -1049,7 +986,7 @@
         "url": "https://a0.muscache.com/im/pictures/user/0d315662-e94e-46d1-998a-3f04bfe75e37.jpg?im_w=240  "
       },
       "name": "Hosted by Mo And Ton  ",
-      "joinedAt": "Joined in November 2013  ",
+      "joinedAt": "Joined in November 2022  ",
       "reviews": "1,590 reviews "
     },
     "reviews": [
@@ -1451,18 +1388,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.899827166671496, "lng": 84.6704007934253 },
-    "amenities": [
-      "Hair dryer ",
-      "Washer ",
-      "Kitchen ",
-      "Smoking allowed ",
-      "EV charger ",
-      "Air conditioning ",
-      "Crib ",
-      "Dryer ",
-      "Smoke alarm "
-    ],
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -1860,18 +1785,7 @@
       }
     ],
     "geolocation": { "lat": 27.871453933810184, "lng": 85.22313242059553 },
-    "amenities": [
-      "Indoor fireplace ",
-      "Iron ",
-      "Smoking allowed ",
-      "Dryer ",
-      "Smoke alarm ",
-      "Heating ",
-      "Pool ",
-      "Hot tub ",
-      "Air conditioning ",
-      "Carbon monoxide alarm "
-    ],
+
     "bedrooms": 4,
     "bed": 7,
     "person_capacity": 6,
@@ -2087,15 +2001,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.756429614783187, "lng": 118.4861294417828 },
-    "amenities": [
-      "Iron ",
-      "Free parking ",
-      "Washer ",
-      "Indoor fireplace ",
-      "Kitchen ",
-      "Air conditioning "
-    ],
     "bedrooms": 4,
     "bed": 3,
     "person_capacity": 2,
@@ -2196,18 +2101,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.512923517470423, "lng": 118.35434599314597 },
-    "amenities": [
-      "Breakfast ",
-      "BBQ grill ",
-      "Crib ",
-      "Wifi ",
-      "Air conditioning ",
-      "Pool ",
-      "EV charger ",
-      "Hot tub ",
-      "Smoking allowed "
-    ],
+
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -3011,19 +2905,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.76954309226164, "lng": 116.52213591867623 },
-    "amenities": [
-      "Waterfront ",
-      "Dedicated workspace ",
-      "BBQ grill ",
-      "Carbon monoxide alarm ",
-      "Air conditioning ",
-      "Free parking ",
-      "Pool ",
-      "Gym ",
-      "Smoking allowed ",
-      "Hot tub "
-    ],
+
     "bedrooms": 4,
     "bed": 1,
     "person_capacity": 6,
@@ -3142,22 +3024,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.90534533689429, "lng": 116.46173517138435 },
-    "amenities": [
-      "Breakfast ",
-      "Waterfront ",
-      "BBQ grill ",
-      "Washer ",
-      "Hot tub ",
-      "TV ",
-      "Dryer ",
-      "Free parking ",
-      "Air conditioning ",
-      "Wifi ",
-      "Gym ",
-      "EV charger ",
-      "Heating "
-    ],
+
     "bedrooms": 2,
     "bed": 3,
     "person_capacity": 3,
@@ -3946,18 +3813,6 @@
         }
       }
     ],
-    "amenities": [
-      "Washer ",
-      "Air conditioning ",
-      "Dedicated workspace ",
-      "Kitchen ",
-      "Crib ",
-      "Pool ",
-      "TV ",
-      "Breakfast ",
-      "EV charger ",
-      "Indoor fireplace "
-    ],
     "bedrooms": 4,
     "bed": 4,
     "person_capacity": 5,
@@ -4059,16 +3914,6 @@
         }
       }
     ],
-    "amenities": [
-      "Crib ",
-      "Wifi ",
-      "Dryer ",
-      "Washer ",
-      "Heating ",
-      "Indoor fireplace ",
-      "TV ",
-      "Air conditioning "
-    ],
     "bedrooms": 3,
     "bed": 4,
     "person_capacity": 5,
@@ -4140,17 +3985,7 @@
         }
       }
     ],
-    "amenities": [
-      "Crib ",
-      "Wifi ",
-      "Hair dryer ",
-      "Washer ",
-      "Breakfast ",
-      "Air conditioning ",
-      "Free parking ",
-      "Dedicated workspace ",
-      "TV "
-    ],
+
     "bedrooms": 2,
     "bed": 2,
     "person_capacity": 3,
@@ -4231,15 +4066,6 @@
           "createdAt": "January 2018  "
         }
       }
-    ],
-    "amenities": [
-      "Free parking ",
-      "Air conditioning ",
-      "Crib ",
-      "TV ",
-      "Carbon monoxide alarm ",
-      "Hair dryer ",
-      "Smoking allowed "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -4331,14 +4157,6 @@
           "createdAt": "January 2021  "
         }
       }
-    ],
-    "amenities": [
-      "Gym ",
-      "Air conditioning ",
-      "Hot tub ",
-      "Heating ",
-      "Hair dryer ",
-      "EV charger "
     ],
     "bedrooms": 4,
     "bed": 4,
@@ -4666,19 +4484,6 @@
         }
       }
     ],
-    "amenities": [
-      "Washer ",
-      "BBQ grill ",
-      "Air conditioning ",
-      "Hair dryer ",
-      "Smoke alarm ",
-      "Dedicated workspace ",
-      "Smoking allowed ",
-      "Waterfront ",
-      "EV charger ",
-      "Wifi ",
-      "Free parking "
-    ],
     "bedrooms": 4,
     "bed": 1,
     "person_capacity": 7,
@@ -4922,18 +4727,6 @@
           "createdAt": "June 2022  "
         }
       }
-    ],
-    "amenities": [
-      "Carbon monoxide alarm ",
-      "Washer ",
-      "Heating ",
-      "Dryer ",
-      "Pool ",
-      "Air conditioning ",
-      "Smoking allowed ",
-      "Smoke alarm ",
-      "Hot tub ",
-      "Gym "
     ],
     "bedrooms": 1,
     "bed": 1,

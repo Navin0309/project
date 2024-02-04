@@ -934,68 +934,7 @@
       "joinedAt": "Joined in November 2013  ",
       "reviews": "1,590 reviews "
     },
-    "reviews": [
-      {
-        "reivew": "a phenomenal experience. beautiful large wooden house with comfortable bedand great air conditioning. close to a few small restaurants and walking distance to the busy areas.  the hosts are amazing and we're available anytime. we had forgotten something at the house and mo personally delivered it to the airport before we left chiangmai.I fully recommend this place to any and all.  ",
-        "user": {
-          "profile": {
-            "url": "https://a0.muscache.com/im/pictures/user/ed61f655-d858-41ee-8441-a65963614f4b.jpg?im_w=240  "
-          },
-          "name": "Michael  ",
-          "createdAt": "October 2022  "
-        }
-      },
-      {
-        "reivew": "I don’t even know where to begin, the most incredible hosts/staff I could ever imagine. My friend and I feltso welcomed after a long day of travelling to a cold drink and a guided tour up a mountain on a motor bike that the staff helped us organize. Every day was filled with ideas of what we could do, where to go and what to see which made every day very successful. “No plan is the best plan” is what we learned and we are forever grateful. The house is everything you want for a treehouse vibe including the geckos, 10/10.  ",
-        "user": {
-          "profile": {
-            "url": "https://a0.muscache.com/im/pictures/user/18f4a7d5-9b23-40f8-8b48-857d410f636d.jpg?im_w=240  "
-          },
-          "name": "Brittany  ",
-          "createdAt": "October 2022  "
-        }
-      },
-      {
-        "reivew": "What a great airbnb! Great location, authentic, superb hosts, lovely breakfast  ",
-        "user": {
-          "profile": {
-            "url": "https://a0.muscache.com/im/pictures/user/8acb5668-799b-4e7b-927c-ae699dabf2f7.jpg?im_w=240  "
-          },
-          "name": "Karen  ",
-          "createdAt": "October 2022  "
-        }
-      },
-      {
-        "reivew": "Hands down, the BEST experience I've had on this website. From the pickup at the airport to the check-in, up until the moment of picking up our bags at the end of our stay, everything was absolutely phenomenal. The property itself was beautiful. A wonderful mix of greenery and traditional wooden structure, we could not have asked for a better stay. The rooms were very spacious, and we especially loved the second floor outdoor lounging area! Perfect place to get together with your group before you go back inside your rooms or leave for the day. The location was great, just minutes away from the Chiang Mai Gate, and within all the designated pick-up areas for my adventures. I walked from the gate to the house alone at night and feltvery safe. It's also in a very residential part, slightly away from all the action (but close enough to walk to the action), which was great as we didn't have to deal with any noise at night.I do need to give a shout-out to the breakfast! I opted for breakfast every day of my trip, and it was so delicious I still dream aboutit. The food itself was absolutely phenomenal, and the team that prepared it were such great wholesome people! My elephant sanctuary pickup came a little earlier than expected, and the team made sure I had enough food with me so I wouldn't be hungry (and I was so happy they did because otherwise I would've been so hungry throughout the day).Also another shoutout for Mo and Ton and the team for being the most helpful and wonderful hosts anyone could ask for! Even from before my trip, they helped me with reservations for all of my adventures, and during the trip whenever I had any questions they were so quick to respond, I never feltconfused or lost.  ",
-        "user": {
-          "profile": {
-            "url": "https://a0.muscache.com/im/users/10319657/profile_pic/1385678687/original.jpg?im_w=240  "
-          },
-          "name": "YooJin  ",
-          "createdAt": "October 2022  "
-        }
-      },
-      {
-        "reivew": "Amazing! You feel like in a rural area with squirells, bats, and geckos... but 5 mins walk to old city. Very unique and traditional style house and furnishings... but there is aircon and WiFi. Plus they offer you a fully cooked breakfast in the morning with coffee and fresh fruit. They can organise a driver or a tour or anything! English speaker staff. Perfect trip. I will definitely stay again  ",
-        "user": {
-          "profile": {
-            "url": "https://a0.muscache.com/im/pictures/user/e0a96f64-e35c-4e5e-b708-92ad7c616b86.jpg?im_w=240  "
-          },
-          "name": "Tia  ",
-          "createdAt": "October 2022  "
-        }
-      },
-      {
-        "reivew": "Wow!!  We had an amazing stay. I wish we would have stayed longer. The house is really beautiful and spacious. My husband and kid did a cooking class. I was afraid fours hours would be too long, but they stayed fully engaged. They ran to the kitchen the next morning to help cook!  The staff were incredibly nice. I definitely recommend you stay here😍  ",
-        "user": {
-          "profile": {
-            "url": "https://a0.muscache.com/im/pictures/user/3d417734-364e-42e2-b60f-2162347a8031.jpg?im_w=240  "
-          },
-          "name": "Liz  ",
-          "createdAt": "October 2022  "
-        }
-      }
-    ],
+    
     "bedrooms": 3,
     "bed": 2,
     "person_capacity": 2,
@@ -1095,11 +1034,8 @@
           "createdAt": "May 2022  "
         }
       }
-    ],
-    "bedrooms": 4,
-    "bed": 4,
-    "person_capacity": 3,
-    "pets_capacity": 0
+    ]
+
   },
   {
     "_id": "c4bcc285-eae8-48a3-9bef-48fd5e31b135  ",
@@ -1165,11 +1101,7 @@
           "createdAt": "June 2022,  ·   "
         }
       }
-    ],
-    "bedrooms": 1,
-    "bed": 1,
-    "person_capacity": 2,
-    "pets_capacity": 2
+    ]
   },
   {
     "_id": "e1b896c8-ed5b-4234-984b-07d924bd0e3e  ",
@@ -2747,7 +2679,7 @@
         "url": "https://a0.muscache.com/im/pictures/user/0f37cfdd-2e90-415e-acf5-30848c4036ce.jpg?im_w=240  "
       },
       "name": "Hosted by Nikhil  ",
-      "joinedAt": "Joined in August 2014  ",
+      "joinedAt": "Joined in August 2020  ",
       "reviews": "52 reviews "
     },
     "reviews": [
@@ -2757,8 +2689,8 @@
           "profile": {
             "url": "https://a0.muscache.com/im/pictures/user/2cd10864-85ed-42a6-9a22-8073140ca916.jpg?im_w=240  "
           },
-          "name": "Adwit  ",
-          "createdAt": "March 2022,  ·   "
+          "name": "Navin  ",
+          "createdAt": "March 2023,  ·   "
         }
       },
       {
@@ -2933,16 +2865,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.53443300576308, "lng": 116.3272062342343 },
-    "amenities": [
-      "Hair dryer ",
-      "Iron ",
-      "Dedicated workspace ",
-      "TV ",
-      "Wifi ",
-      "Pool ",
-      "Waterfront "
-    ],
+
     "bedrooms": 3,
     "bed": 1,
     "person_capacity": 5,
@@ -3032,16 +2955,6 @@
           "createdAt": "August 2015  "
         }
       }
-    ],
-    "geolocation": { "lat": 29.933911742615948, "lng": 116.26817823119904 },
-    "amenities": [
-      "Breakfast ",
-      "Kitchen ",
-      "Smoke alarm ",
-      "Indoor fireplace ",
-      "Gym ",
-      "TV ",
-      "Hair dryer "
     ],
     "bedrooms": 2,
     "bed": 1,
@@ -3143,16 +3056,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 30.096821188157605, "lng": 116.41918009942871 },
-    "amenities": [
-      "Free parking ",
-      "Pool ",
-      "Hair dryer ",
-      "Washer ",
-      "Dryer ",
-      "Waterfront ",
-      "BBQ grill "
-    ],
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -3212,17 +3115,6 @@
           "createdAt": "March 2022,  ·   "
         }
       }
-    ],
-    "amenities": [
-      "Washer ",
-      "Hair dryer ",
-      "Wifi ",
-      "Carbon monoxide alarm ",
-      "Heating ",
-      "Crib ",
-      "Pool ",
-      "Smoking allowed ",
-      "Free parking "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -3325,18 +3217,6 @@
         }
       }
     ],
-    "amenities": [
-      "EV charger ",
-      "Wifi ",
-      "Gym ",
-      "Heating ",
-      "Washer ",
-      "Carbon monoxide alarm ",
-      "Kitchen ",
-      "Hot tub ",
-      "Free parking ",
-      "Smoke alarm "
-    ],
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -3437,15 +3317,6 @@
           "createdAt": "June 2019  "
         }
       }
-    ],
-    "amenities": [
-      "Hair dryer ",
-      "Heating ",
-      "Indoor fireplace ",
-      "Smoke alarm ",
-      "Smoking allowed ",
-      "Gym ",
-      "Dryer "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -3548,18 +3419,6 @@
         }
       }
     ],
-    "amenities": [
-      "Washer ",
-      "Air conditioning ",
-      "Dedicated workspace ",
-      "Kitchen ",
-      "Crib ",
-      "Pool ",
-      "TV ",
-      "Breakfast ",
-      "EV charger ",
-      "Indoor fireplace "
-    ],
     "bedrooms": 4,
     "bed": 4,
     "person_capacity": 5,
@@ -3661,16 +3520,6 @@
         }
       }
     ],
-    "amenities": [
-      "Crib ",
-      "Wifi ",
-      "Dryer ",
-      "Washer ",
-      "Heating ",
-      "Indoor fireplace ",
-      "TV ",
-      "Air conditioning "
-    ],
     "bedrooms": 3,
     "bed": 4,
     "person_capacity": 5,
@@ -3742,17 +3591,7 @@
         }
       }
     ],
-    "amenities": [
-      "Crib ",
-      "Wifi ",
-      "Hair dryer ",
-      "Washer ",
-      "Breakfast ",
-      "Air conditioning ",
-      "Free parking ",
-      "Dedicated workspace ",
-      "TV "
-    ],
+
     "bedrooms": 2,
     "bed": 2,
     "person_capacity": 3,
@@ -3833,15 +3672,6 @@
           "createdAt": "January 2018  "
         }
       }
-    ],
-    "amenities": [
-      "Free parking ",
-      "Air conditioning ",
-      "Crib ",
-      "TV ",
-      "Carbon monoxide alarm ",
-      "Hair dryer ",
-      "Smoking allowed "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -3934,14 +3764,7 @@
         }
       }
     ],
-    "amenities": [
-      "Gym ",
-      "Air conditioning ",
-      "Hot tub ",
-      "Heating ",
-      "Hair dryer ",
-      "EV charger "
-    ],
+
     "bedrooms": 4,
     "bed": 4,
     "person_capacity": 7,
@@ -4268,19 +4091,6 @@
         }
       }
     ],
-    "amenities": [
-      "Washer ",
-      "BBQ grill ",
-      "Air conditioning ",
-      "Hair dryer ",
-      "Smoke alarm ",
-      "Dedicated workspace ",
-      "Smoking allowed ",
-      "Waterfront ",
-      "EV charger ",
-      "Wifi ",
-      "Free parking "
-    ],
     "bedrooms": 4,
     "bed": 1,
     "person_capacity": 7,
@@ -4524,18 +4334,6 @@
           "createdAt": "June 2022  "
         }
       }
-    ],
-    "amenities": [
-      "Carbon monoxide alarm ",
-      "Washer ",
-      "Heating ",
-      "Dryer ",
-      "Pool ",
-      "Air conditioning ",
-      "Smoking allowed ",
-      "Smoke alarm ",
-      "Hot tub ",
-      "Gym "
     ],
     "bedrooms": 1,
     "bed": 1,
