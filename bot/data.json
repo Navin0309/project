@@ -4,7 +4,6 @@
     "title": "Stone Mason Themed Room with Breakfast  ",
     "rating": "4.91 ·  ",
     "review": "1 review",
-    "lt": "Kathmandu, Central Development Region, Nepal  ",
     "images": [
       {
         "url": "https://a0.muscache.com/im/pictures/211eb226-c81a-4ac9-a1d3-6ca110993d06.jpg?im_w=720  "
@@ -80,7 +79,7 @@
         "url": "https://a0.muscache.com/im/pictures/user/bfe2dd3c-e72f-4e46-ba38-5c0bac2cc2e2.jpg?im_w=240  "
       },
       "name": "Hosted by Jennifer  ",
-      "joinedAt": "Joined in August 2016  ",
+      "joinedAt": "Joined in August 2024  ",
       "reviews": "445 reviews "
     },
     "reviews": [
@@ -91,7 +90,7 @@
             "url": "https://a0.muscache.com/im/pictures/user/919bb28f-4814-480d-8cec-2f176f587b47.jpg?im_w=240  "
           },
           "name": "Elisabeth  ",
-          "createdAt": "October 2022  "
+          "createdAt": "October 2024  "
         }
       },
       {
@@ -145,16 +144,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 26.599988452035497, "lng": 81.5676379382733 },
-    "amenities": [
-      "Washer ",
-      "Waterfront ",
-      "Crib ",
-      "Indoor fireplace ",
-      "Pool ",
-      "Breakfast ",
-      "Air conditioning "
-    ],
+  
     "bedrooms": 2,
     "bed": 1,
     "person_capacity": 2,
@@ -254,17 +244,6 @@
           "createdAt": "March 2022,  ·   "
         }
       }
-    ],
-    "geolocation": { "lat": 26.319677784051954, "lng": 83.94565122128533 },
-    "amenities": [
-      "Pool ",
-      "Dedicated workspace ",
-      "Heating ",
-      "Iron ",
-      "Dryer ",
-      "Crib ",
-      "Wifi ",
-      "TV "
     ],
     "bedrooms": 3,
     "bed": 4,
@@ -366,18 +345,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 25.781755929041896, "lng": 83.66006994942246 },
-    "amenities": [
-      "BBQ grill ",
-      "EV charger ",
-      "Hot tub ",
-      "Pool ",
-      "Dedicated workspace ",
-      "Kitchen ",
-      "Crib ",
-      "Waterfront ",
-      "Hair dryer "
-    ],
     "bedrooms": 2,
     "bed": 1,
     "person_capacity": 2,
@@ -478,19 +445,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 26.08803267931835, "lng": 84.41795870936622 },
-    "amenities": [
-      "EV charger ",
-      "Smoke alarm ",
-      "Air conditioning ",
-      "Kitchen ",
-      "Dryer ",
-      "Heating ",
-      "Indoor fireplace ",
-      "Smoking allowed ",
-      "Hot tub ",
-      "Carbon monoxide alarm "
-    ],
     "bedrooms": 2,
     "bed": 1,
     "person_capacity": 3,
@@ -560,19 +514,6 @@
           "createdAt": "June 2022  "
         }
       }
-    ],
-    "geolocation": { "lat": 26.437786503347798, "lng": 83.12185909091163 },
-    "amenities": [
-      "Dryer ",
-      "Smoke alarm ",
-      "Iron ",
-      "Gym ",
-      "TV ",
-      "Air conditioning ",
-      "Free parking ",
-      "Dedicated workspace ",
-      "Crib ",
-      "Smoking allowed "
     ],
     "bedrooms": 2,
     "bed": 1,
@@ -674,16 +615,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 28.037642381615317, "lng": 84.58021318221611 },
-    "amenities": [
-      "Free parking ",
-      "Kitchen ",
-      "Dedicated workspace ",
-      "Indoor fireplace ",
-      "Waterfront ",
-      "Heating ",
-      "Washer "
-    ],
     "bedrooms": 4,
     "bed": 6,
     "person_capacity": 5,
@@ -743,18 +674,6 @@
           "createdAt": "May 2022  "
         }
       }
-    ],
-    "geolocation": { "lat": 27.91393515286474, "lng": 84.75295162982314 },
-    "amenities": [
-      "Indoor fireplace ",
-      "Kitchen ",
-      "Heating ",
-      "Pool ",
-      "Air conditioning ",
-      "Breakfast ",
-      "Smoke alarm ",
-      "Smoking allowed ",
-      "EV charger "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -856,16 +775,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.918789088222546, "lng": 84.73750552737866 },
-    "amenities": [
-      "Smoking allowed ",
-      "Carbon monoxide alarm ",
-      "Breakfast ",
-      "Wifi ",
-      "Dedicated workspace ",
-      "TV ",
-      "Waterfront "
-    ],
+ 
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -936,16 +846,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.94260055116689, "lng": 84.7206864380502 },
-    "amenities": [
-      "Gym ",
-      "EV charger ",
-      "Indoor fireplace ",
-      "Smoke alarm ",
-      "Hot tub ",
-      "Iron ",
-      "Waterfront "
-    ],
     "bedrooms": 2,
     "bed": 3,
     "person_capacity": 2,
@@ -995,15 +895,6 @@
           "createdAt": "June 2018  "
         }
       }
-    ],
-    "geolocation": { "lat": 27.87403362055262, "lng": 84.71931345116624 },
-    "amenities": [
-      "Air conditioning ",
-      "Waterfront ",
-      "Kitchen ",
-      "EV charger ",
-      "Iron ",
-      "Hair dryer "
     ],
     "bedrooms": 4,
     "bed": 2,
@@ -1105,15 +996,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.870846932616605, "lng": 84.65958852171417 },
-    "amenities": [
-      "Hot tub ",
-      "Indoor fireplace ",
-      "EV charger ",
-      "Waterfront ",
-      "Crib ",
-      "Washer "
-    ],
     "bedrooms": 3,
     "bed": 2,
     "person_capacity": 2,
@@ -1214,15 +1096,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.89315177944272, "lng": 84.64088157542027 },
-    "amenities": [
-      "TV ",
-      "Waterfront ",
-      "Breakfast ",
-      "Kitchen ",
-      "Carbon monoxide alarm ",
-      "Smoke alarm "
-    ],
     "bedrooms": 4,
     "bed": 4,
     "person_capacity": 3,
@@ -1292,15 +1165,6 @@
           "createdAt": "June 2022,  ·   "
         }
       }
-    ],
-    "geolocation": { "lat": 27.925007874468797, "lng": 84.66061826187708 },
-    "amenities": [
-      "Washer ",
-      "Free parking ",
-      "TV ",
-      "Kitchen ",
-      "Breakfast ",
-      "BBQ grill "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -1382,16 +1246,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.916210462191763, "lng": 84.69356994709206 },
-    "amenities": [
-      "Dryer ",
-      "Hair dryer ",
-      "Free parking ",
-      "Iron ",
-      "Heating ",
-      "Smoke alarm ",
-      "Gym "
-    ],
     "bedrooms": 3,
     "bed": 1,
     "person_capacity": 2,
@@ -1441,18 +1295,6 @@
           "createdAt": "January 2018  "
         }
       }
-    ],
-    "geolocation": { "lat": 27.899827166671496, "lng": 84.6704007934253 },
-    "amenities": [
-      "Hair dryer ",
-      "Washer ",
-      "Kitchen ",
-      "Smoking allowed ",
-      "EV charger ",
-      "Air conditioning ",
-      "Crib ",
-      "Dryer ",
-      "Smoke alarm "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -1554,18 +1396,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.91029456415899, "lng": 84.92656725366102 },
-    "amenities": [
-      "Pool ",
-      "Wifi ",
-      "Dedicated workspace ",
-      "Crib ",
-      "Breakfast ",
-      "BBQ grill ",
-      "Dryer ",
-      "Free parking ",
-      "Iron "
-    ],
     "bedrooms": 4,
     "bed": 5,
     "person_capacity": 7,
@@ -1665,17 +1495,6 @@
           "createdAt": "June 2022,  ·   "
         }
       }
-    ],
-    "geolocation": { "lat": 27.78401160655354, "lng": 84.55860676876077 },
-    "amenities": [
-      "Carbon monoxide alarm ",
-      "BBQ grill ",
-      "Gym ",
-      "TV ",
-      "Pool ",
-      "Waterfront ",
-      "Smoke alarm ",
-      "Dryer "
     ],
     "bedrooms": 1,
     "bed": 1,
@@ -1777,19 +1596,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 27.978232111529124, "lng": 84.80025246033706 },
-    "amenities": [
-      "Kitchen ",
-      "Pool ",
-      "Smoking allowed ",
-      "Heating ",
-      "Crib ",
-      "Gym ",
-      "Dedicated workspace ",
-      "Free parking ",
-      "Waterfront ",
-      "Breakfast "
-    ],
     "bedrooms": 3,
     "bed": 1,
     "person_capacity": 2,
@@ -1849,19 +1655,6 @@
           "createdAt": "February 2019  "
         }
       }
-    ],
-    "geolocation": { "lat": 27.871453933810184, "lng": 85.22313242059553 },
-    "amenities": [
-      "Indoor fireplace ",
-      "Iron ",
-      "Smoking allowed ",
-      "Dryer ",
-      "Smoke alarm ",
-      "Heating ",
-      "Pool ",
-      "Hot tub ",
-      "Air conditioning ",
-      "Carbon monoxide alarm "
     ],
     "bedrooms": 4,
     "bed": 7,
@@ -1963,21 +1756,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 28.783708514633055, "lng": 118.75518731608291 },
-    "amenities": [
-      "Dedicated workspace ",
-      "TV ",
-      "Pool ",
-      "BBQ grill ",
-      "Dryer ",
-      "EV charger ",
-      "Breakfast ",
-      "Indoor fireplace ",
-      "Hair dryer ",
-      "Gym ",
-      "Crib ",
-      "Free parking "
-    ],
     "bedrooms": 3,
     "bed": 4,
     "person_capacity": 2,
@@ -2078,15 +1856,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.756429614783187, "lng": 118.4861294417828 },
-    "amenities": [
-      "Iron ",
-      "Free parking ",
-      "Washer ",
-      "Indoor fireplace ",
-      "Kitchen ",
-      "Air conditioning "
-    ],
+
     "bedrooms": 4,
     "bed": 3,
     "person_capacity": 2,
@@ -2187,18 +1957,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.512923517470423, "lng": 118.35434599314597 },
-    "amenities": [
-      "Breakfast ",
-      "BBQ grill ",
-      "Crib ",
-      "Wifi ",
-      "Air conditioning ",
-      "Pool ",
-      "EV charger ",
-      "Hot tub ",
-      "Smoking allowed "
-    ],
+
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -2248,19 +2007,6 @@
           "createdAt": "September 2019  "
         }
       }
-    ],
-    "geolocation": { "lat": 29.968418543690884, "lng": 116.21738450666766 },
-    "amenities": [
-      "Kitchen ",
-      "Heating ",
-      "BBQ grill ",
-      "Smoke alarm ",
-      "Breakfast ",
-      "Hot tub ",
-      "Pool ",
-      "Washer ",
-      "Waterfront ",
-      "TV "
     ],
     "bedrooms": 2,
     "bed": 3,
@@ -2312,17 +2058,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 30.19301388399302, "lng": 116.39309577151668 },
-    "amenities": [
-      "Smoking allowed ",
-      "Kitchen ",
-      "Heating ",
-      "Smoke alarm ",
-      "Wifi ",
-      "Iron ",
-      "Pool ",
-      "Waterfront "
-    ],
     "bedrooms": 2,
     "bed": 3,
     "person_capacity": 3,
@@ -2372,13 +2107,7 @@
           "createdAt": "February 2020  "
         }
       }
-    ],
-    "geolocation": { "lat": 30.189452864486697, "lng": 116.62234406237447 },
-    "amenities": ["Hair dryer ", "Wifi ", "Iron ", "Heating ", "Hot tub "],
-    "bedrooms": 3,
-    "bed": 3,
-    "person_capacity": 3,
-    "pets_capacity": 1
+    ]
   },
   {
     "_id": "ade460d2-e6de-49a6-9ed3-f0b712c8de80  ",
@@ -2464,17 +2193,6 @@
           "createdAt": "May 2018  "
         }
       }
-    ],
-    "geolocation": { "lat": 30.127708075241546, "lng": 116.7994280714802 },
-    "amenities": [
-      "Kitchen ",
-      "Dedicated workspace ",
-      "Waterfront ",
-      "Hot tub ",
-      "Carbon monoxide alarm ",
-      "Gym ",
-      "EV charger ",
-      "Smoke alarm "
     ],
     "bedrooms": 3,
     "bed": 5,
@@ -2576,18 +2294,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.80768165503785, "lng": 116.82276472384297 },
-    "amenities": [
-      "Indoor fireplace ",
-      "Breakfast ",
-      "Smoke alarm ",
-      "Crib ",
-      "Wifi ",
-      "Kitchen ",
-      "Free parking ",
-      "Gym ",
-      "Washer "
-    ],
     "bedrooms": 1,
     "bed": 1,
     "person_capacity": 2,
@@ -2688,17 +2394,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.680098933475055, "lng": 116.83923765492257 },
-    "amenities": [
-      "Wifi ",
-      "Dedicated workspace ",
-      "Carbon monoxide alarm ",
-      "Breakfast ",
-      "EV charger ",
-      "Heating ",
-      "Hot tub ",
-      "Dryer "
-    ],
     "bedrooms": 4,
     "bed": 6,
     "person_capacity": 4,
@@ -2749,16 +2444,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.532043287445333, "lng": 116.81452825830317 },
-    "amenities": [
-      "EV charger ",
-      "Pool ",
-      "Crib ",
-      "Free parking ",
-      "Washer ",
-      "BBQ grill ",
-      "Indoor fireplace "
-    ],
     "bedrooms": 3,
     "bed": 1,
     "person_capacity": 4,
@@ -2808,16 +2493,6 @@
           "createdAt": "March 2021  "
         }
       }
-    ],
-    "geolocation": { "lat": 29.401718317159876, "lng": 116.8282557008695 },
-    "amenities": [
-      "Washer ",
-      "Iron ",
-      "Kitchen ",
-      "Gym ",
-      "Heating ",
-      "Smoke alarm ",
-      "Pool "
     ],
     "bedrooms": 4,
     "bed": 1,
@@ -2879,16 +2554,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.359835351130275, "lng": 116.53311787272928 },
-    "amenities": [
-      "Pool ",
-      "TV ",
-      "Breakfast ",
-      "Kitchen ",
-      "Hot tub ",
-      "Free parking ",
-      "Indoor fireplace "
-    ],
     "bedrooms": 2,
     "bed": 1,
     "person_capacity": 3,
@@ -2939,19 +2604,6 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.53084840711142, "lng": 116.56057275786198 },
-    "amenities": [
-      "Gym ",
-      "Crib ",
-      "Dryer ",
-      "Dedicated workspace ",
-      "Free parking ",
-      "Pool ",
-      "Waterfront ",
-      "Smoke alarm ",
-      "Breakfast ",
-      "Hair dryer "
-    ],
     "bedrooms": 2,
     "bed": 1,
     "person_capacity": 2,
@@ -3001,19 +2653,6 @@
           "createdAt": "January 2022  "
         }
       }
-    ],
-    "geolocation": { "lat": 29.76954309226164, "lng": 116.52213591867623 },
-    "amenities": [
-      "Waterfront ",
-      "Dedicated workspace ",
-      "BBQ grill ",
-      "Carbon monoxide alarm ",
-      "Air conditioning ",
-      "Free parking ",
-      "Pool ",
-      "Gym ",
-      "Smoking allowed ",
-      "Hot tub "
     ],
     "bedrooms": 4,
     "bed": 1,
@@ -3133,22 +2772,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 29.90534533689429, "lng": 116.46173517138435 },
-    "amenities": [
-      "Breakfast ",
-      "Waterfront ",
-      "BBQ grill ",
-      "Washer ",
-      "Hot tub ",
-      "TV ",
-      "Dryer ",
-      "Free parking ",
-      "Air conditioning ",
-      "Wifi ",
-      "Gym ",
-      "EV charger ",
-      "Heating "
-    ],
+
     "bedrooms": 2,
     "bed": 3,
     "person_capacity": 3,
@@ -3208,19 +2832,6 @@
           "createdAt": "August 2017  "
         }
       }
-    ],
-    "geolocation": { "lat": 29.78027103180899, "lng": 116.35466111936695 },
-    "amenities": [
-      "Hot tub ",
-      "Dryer ",
-      "Waterfront ",
-      "Indoor fireplace ",
-      "TV ",
-      "BBQ grill ",
-      "Carbon monoxide alarm ",
-      "Heating ",
-      "Smoke alarm ",
-      "Iron "
     ],
     "bedrooms": 2,
     "bed": 1,
