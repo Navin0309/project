@@ -44,16 +44,7 @@
         }
       }
     ],
-    "geolocation": { "lat": 26.452541597780193, "lng": 83.24268193669977 },
-    "amenities": [
-      "BBQ grill ",
-      "Iron ",
-      "Crib ",
-      "Waterfront ",
-      "Indoor fireplace ",
-      "Free parking ",
-      "Air conditioning "
-    ],
+  
     "bedrooms": 2,
     "bed": 2,
     "person_capacity": 2,
