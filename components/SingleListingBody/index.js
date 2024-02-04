@@ -6,7 +6,7 @@ import Images from "../SingleListingComponents/Images";
 import ImageViewer from "../SingleListingComponents/ImageViewer";
 import Date_GuestsPickerCard from "./Date_GuestsPickerCard";
 import Reviews from "./Reviews";
-import Location from "./Location";
+
 import Info from "./Info";
 import Title from "./Title";
 import Star from "../../public/_svgs/star";
@@ -39,7 +39,7 @@ const SingleListingBody = ({ listing }) => {
   const ImagesRef = useRef(null);
   const AmenitiesRef = useRef(null);
   const ReviewsRef = useRef(null);
-  const LocationRef = useRef(null);
+  // const LocationRef = useRef(null);
   const CardRef = useRef(null);
 
   const [scroll, setScroll] = useState(null);
@@ -81,12 +81,6 @@ const SingleListingBody = ({ listing }) => {
           window.scrollBy(
             0,
             ReviewsRef.current?.getBoundingClientRect().top - 80
-          );
-          break;
-        case "location":
-          window.scrollBy(
-            0,
-            LocationRef.current?.getBoundingClientRect().top - 80
           );
           break;
       }
@@ -267,7 +261,6 @@ const SingleListingBody = ({ listing }) => {
             </div>
           </div>
           <Reviews data={listing.data} ref={ReviewsRef} />
-          <Location listing={listing.data} ref={LocationRef} />
         </div>
       </section>
     </>

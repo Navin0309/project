@@ -2,18 +2,14 @@ import Head from "next/head";
 import { useRouter } from "next/router";
 import React, { useContext, useEffect, useState } from "react";
 import { Header } from "../../components";
-import PlacesListMapSection from "../../components/MapFilter/PlacesListMapSection";
 import { getParams } from "../../utils/handlers";
 import dynamic from "next/dynamic";
-import FilterModal from "../../components/MapFilter/Filters";
 import axios from "axios";
 import LOADING from "../../public/images/giphy.gif";
 import Wishlist from "../../components/Wishlist";
 import { Context } from "../_app";
 
-const Map = dynamic(() => import("../../components/MapFilter/LeafletMap"), {
-  ssr: false,
-});
+
 // const GoogleMapComponent = dynamic(
 //   () => import("../../components/MapFilter/GoogleMap"),
 //   {
@@ -106,37 +102,7 @@ const SearchPage = () => {
         setHeaderSearch={setHeaderSearch}
         defaultInfos={infos}
       />
-      <div className="flex flex-col-reverse xl:flex-row w-full h-[calc(100vh-81px)] relative z-10">
-        <PlacesListMapSection
-          data={data}
-          setFilterModal={setFilterModal}
-          hoveredPlace={hoveredPlace}
-          setHoveredPlace={setHoveredPlace}
-        />
-        {location ? (
-          // <GoogleMapComponent
-          //   destination={destination}
-          //   markers={markers}
-          //   setData={setData}
-          //   location={location}
-          //   userLocation={userLocation}
-          //   hoveredPlace={hoveredPlace}
-          //   setHoveredPlace={setHoveredPlace}
-          //   places={places}
-          //   setPlaces={setPlaces}
-          // />
-          <Map
-            setData={setData}
-            location={location}
-            places={places}
-            setPlaces={setPlaces}
-          />
-        ) : (
-          <div className="w-full h-full bg-[#e1e1e1] flex items-center justify-center">
-            <img src={LOADING.src} className="w-24 h-24" alt="" />
-          </div>
-        )}
-      </div>
+     
       {filterModal && <FilterModal setFilterModal={setFilterModal} />}
       {overlay && (
         <div
